@@ -74,6 +74,7 @@
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
+| **Ai2b2b saas Company** | Software Engineering Intern | Maryland, Yurrr</br>Remote | <div align="center"><a href="https://aib2bsaas.com/hi/hello?ref=savitar"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
 | **Test Company** | Software Engineering Intern | Houston, Texas</br>Remote | <div align="center"><a href="https://randomcompany.com/hi/hello?ref=savitar"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
 | **[Confluent](https://simplify.jobs/c/Confluent?utm_source=GHList&utm_medium=company)** | Software Engineering Intern | Austin, Texas</br>Remote | <div align="center"><a href="https://careers.confluent.io/jobs/job/d9ebd50b-967e-4f35-8ebd-f0ce2705136a?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 2d |
 | **[Belvedere Trading](https://simplify.jobs/c/Belvedere-Trading?utm_source=GHList&utm_medium=company)** | Software Engineer Intern | Chicago, IL | <div align="center"><a href="https://jobs.lever.co/belvederetrading/eddfd030-1b27-46db-9ef6-5b65e1e2484c/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/71cf7b01-0bb3-4b71-bbef-50a29e75910d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 2d |
