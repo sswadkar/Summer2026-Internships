@@ -74,6 +74,8 @@
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
+| **Yet another test company** | Software Engineering Intern | Maryland, Yurrr</br>Remote | <div align="center"><a href="https://somegenericlinkhere.com/hi/hello?ref=savitar"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
+| **Ai2b2b saas Company** | Software Engineering Intern | Maryland, Yurrr</br>Remote | <div align="center"><a href="https://aib2bsaas.com/hi/hello?ref=savitar"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
 | **Ai2b2b saas Company** | Software Engineering Intern | Maryland, Yurrr</br>Remote | <div align="center"><a href="https://aib2bsaas.com/hi/hello?ref=savitar"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
 | **Test Company** | Software Engineering Intern | Houston, Texas</br>Remote | <div align="center"><a href="https://randomcompany.com/hi/hello?ref=savitar"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
 | **[Confluent](https://simplify.jobs/c/Confluent?utm_source=GHList&utm_medium=company)** | Software Engineering Intern | Austin, Texas</br>Remote | <div align="center"><a href="https://careers.confluent.io/jobs/job/d9ebd50b-967e-4f35-8ebd-f0ce2705136a?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 2d |
